@@ -1,2 +1,2 @@
-height=float(input('enter the height'))
-print(height)
+shiva=bool(-5)
+print(shiva)
